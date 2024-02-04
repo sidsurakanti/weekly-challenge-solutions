@@ -1,5 +1,5 @@
 # Solutions
-My solutions for the weekly challenges held in the [@techwithtim](https://github.com/techwithtim)'s [discord server](https://discord.gg/twt)
+My solutions for the weekly challenges held in the [@techwithtim](https://github.com/techwithtim)'s [discord server](https://discord.gg/twt). You'll notice the solutions might not always be the most readable. That's because the competition favored short and/or fast solutions over readability.
 
 ### Challenge solutions
 - [x] Week 1
@@ -16,3 +16,6 @@ My solutions for the weekly challenges held in the [@techwithtim](https://github
 - [x] Week 12
 - [x] Week 13
 - [ ] Week 14
+
+### Requirements
+- Python 3.6+
